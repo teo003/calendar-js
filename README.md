@@ -22,7 +22,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/basic-calendar-app.git
+   git clone https://github.com/teo003/calendar-js.git
 
 ## 💡 Usage
 Click on the calculator buttons to input numbers and operators. Press = to get the result. Use C to clear the display.
